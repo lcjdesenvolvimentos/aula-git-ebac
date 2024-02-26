@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Luis
+-Profissão: Gerente de Desenvolvimento de Sistemas
+-Cidade: SP
+-O que faz nas horas vagas: Curto minha família
+-Feedback sobre o curso Qualidade de Software: Muito eficaz e didático.
+-Feedback sobre a plataforma de estudo da EBAC: EAD perfeito.
 
 Obrigado!!!
 
